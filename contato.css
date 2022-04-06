@@ -90,8 +90,10 @@ text-align: center;
       text-shadow: 1px 1px rgb(241, 238, 239);
   }
  
-     
-  
+    .juzzy{
+      cursor: pointer;
+    } 
+   
    .emoji {
     float: left;
     position: relative;
